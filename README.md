@@ -1,1 +1,2 @@
 # naive-coder
+raspberry pi
