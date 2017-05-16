@@ -1,0 +1,13 @@
+[package]
+name = "rust_request"
+version = "0.1.0"
+authors = ["Tony Cao <yzcaoye@163.com>"]
+
+[dependencies]
+hyper = "0.10"
+requests = "0.0.30"
+curl = "0.4.6"
+reqwest = "0.6.1"
+time = "0.1"
+chrono = "0.3"
+# request = "0.0.8"
